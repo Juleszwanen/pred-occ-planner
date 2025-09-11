@@ -59,6 +59,14 @@ Then it will start a RVIZ window with 4 drones in a dynamic environment as follo
 
 Select "2D Nav" then click the RVIZ window to send a trigger. Drones will start planning automatically.
 
+## Understanding the Planning Pipeline
+
+For a detailed explanation of how the planning system works, see our comprehensive documentation:
+
+- **[Planning Pipeline Documentation](PLANNING_PIPELINE_DOCUMENTATION.md)** - Complete explanation of the planning system architecture and algorithms
+- **[System Architecture Diagram](SYSTEM_ARCHITECTURE.md)** - Visual representation of component interactions and data flow  
+- **[Quick Reference Guide](QUICK_REFERENCE.md)** - Commands, topics, and troubleshooting tips
+
 You can try other launch file for different tasks as well.
 
 You can even try a much more complex dynamic map as follows:
